@@ -1,0 +1,77 @@
+.completo{
+    margin: 0px 90px 0px 30px;
+}
+
+
+#header{
+    text-align: center;
+    height: 40px;
+    line-height: 40px;
+    background-color: #f16f51;
+  
+}
+
+#searchBtn {
+    background-color: gray;
+    color: white;
+    border-radius: 30px;
+    width: 90px;
+    font-size: 20px;
+    text-decoration: none;
+
+}
+
+#searchBtn:hover{
+    background-color: green;
+}
+
+h1{
+    vertical-align: middle;
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+
+}
+
+.row {
+    margin: 10px 20px;
+}
+
+#results{
+    margin: 30px 20px 10px 0px;
+}
+
+.person-row{
+    margin: 10px 0px;
+    padding: 10px;
+    width: 100%;
+    float: left;
+    background-color: #fdb45c;
+    border: solid 1px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 90px;
+}
+
+.person-row img{
+    float:  left;
+    margin-right: 20px;
+    border-radius: 50px;
+}
+.person-info {
+    font-size: 40px;
+    
+}
+
+.btnAdd {
+    border-radius: 30px;
+   font-size: 20px;
+    text-decoration: none;
+}
+
+.btnAdd:hover{
+    background-color: green;
+}
+
+.nombres{
+    color: rgb(33, 14, 77);
+}
